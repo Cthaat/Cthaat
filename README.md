@@ -8,6 +8,21 @@
 
 ---
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula" align="center" />
+
+---
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cthaat&theme=react)
+
+
+---
+
 <h3 align="left">Languages and Technology:</h3>
 <p align="left">
   <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="70"/> </a>
@@ -94,15 +109,6 @@
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
 </p>
-
----
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula" align="center" />
-
----
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cthaat&theme=react)
-
 
 ---
 
