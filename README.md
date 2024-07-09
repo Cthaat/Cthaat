@@ -16,22 +16,36 @@
   <a href="https://golang.google.cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" height="70"/> </a>
   <a href="https://www.java.com/zh-CN/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" height="70"/> </a>
   <a href="https://book.kotlincn.net/text/getting-started.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" height="70"/> </a>
+  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="70"/> </a>
+  <a href="https://nuxt.com.cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="70"/> </a>
   <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="70"/> </a>
   <a href="https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="https://gohugo.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original-wordmark.svg" alt="gohugo" height="70"/> </a>
   <a href="https://zh-hans.eslint.org/docs/latest/use/getting-started" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" height="70"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" height="70"/> </a>
+  <a href="https://nodejs.org/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="70"/> </a>
+  <a href="https://www.npmjs.com/package/nodemon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="nodemon" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="https://junit.org/junit5/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" alt="junit5" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="https://markdown.com.cn/basic-syntax/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" height="70"/> </a>
+  <a href="https://maven.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" alt="maven" height="70"/> </a>
+  <a href="https://www.mysql.com/cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70"/> </a>
+  <a href="https://neovim.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original-wordmark.svg" alt="neovim" height="70"/> </a>
+  <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" height="70"/> </a>
   <a href="https://apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="apache" height="70"/> </a>
   <a href="https://www.kernel.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="70"/> </a>
   <a href="https://archlinux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" alt="archlinux" height="70"/> </a>
@@ -45,6 +59,16 @@
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="70"/> </a>
   <a href="https://kubernetes.io/zh-cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" height="70"/> </a>
   <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" height="70"/> </a>
+  <a href="https://www.oracle.com/cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" height="70"/> </a>
+  <a href="https://www.pnpm.cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" alt="pnpm" height="70"/> </a>
+  <a href="https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" alt="powershell" height="70"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
