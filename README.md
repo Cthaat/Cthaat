@@ -4,7 +4,7 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cthaat&repo=JavaChat&theme=dark&show_owner=true)](https://github.com/Cthaat/JavaChat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cthaat&repo=JavaChatSer&theme=dark&show_owner=true)](https://github.com/Cthaat/JavaChatSer)
 
 ---
 
