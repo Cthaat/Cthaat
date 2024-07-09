@@ -18,9 +18,9 @@
   <a href="https://book.kotlincn.net/text/getting-started.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" height="70"/> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="70"/> </a>
   <a href="https://nuxt.com.cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" height="70"/> </a>
+  <a href="https://cn.vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" height="70"/> </a>
+  <a href="https://vuetifyjs.com/zh-Hans/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="vuetify" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
@@ -35,6 +35,10 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" height="70"/> </a>
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="70"/> </a>
   <a href="https://www.npmjs.com/package/nodemon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" alt="nodemon" height="70"/> </a>
+  <a href="https://zh-hans.react.dev/learn" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" height="70"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="70"/> </a>
+  <a href="https://vitejs.cn/vite3-cn/guide/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" height="70"/> </a>
+  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
@@ -48,6 +52,7 @@
   <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" height="70"/> </a>
   <a href="https://apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="apache" height="70"/> </a>
   <a href="https://www.kernel.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" height="70"/> </a>
+  <a href="https://cn.ubuntu.com/download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="ubuntu" height="70"/> </a>
   <a href="https://archlinux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" alt="archlinux" height="70"/> </a>
   <a href="https://www.debian.org/index.zh-cn.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="debian" height="70"/> </a>
   <a href="https://gcc.gnu.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt="gcc" height="70"/> </a>
@@ -62,13 +67,11 @@
   <a href="https://www.oracle.com/cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" height="70"/> </a>
   <a href="https://www.pnpm.cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" alt="pnpm" height="70"/> </a>
   <a href="https://learn.microsoft.com/zh-cn/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-plain.svg" alt="powershell" height="70"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="https://www.qt.io/zh-cn/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" height="70"/> </a>
+  <a href="https://redis.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="70"/> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" height="70"/> </a>
+  <a href="https://stackoverflow.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" alt="stackoverflow" height="70"/> </a>
+  <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" alt="tomcat" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
@@ -83,8 +86,9 @@
   <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" alt="datagrip" height="70"/> </a>
   <a href="https://www.jetbrains.com/go/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" alt="goland" height="70"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="idea" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
-  <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pycharm" height="70"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="70"/> </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
   <a href="" target="_blank"> <img src="" alt="" height="70"/> </a>
