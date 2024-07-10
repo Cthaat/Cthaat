@@ -1,20 +1,18 @@
 <h1 align="center">Reach on me</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cthaat&show_icons=true&theme=tokyonight&line_height=33.5)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cthaat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cthaat&show_icons=true&theme=tokyonight&line_height=33.5" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cthaat&show_icons=true&theme=radical" /></div>
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cthaat&repo=JavaChatSer&theme=tokyonight&show_owner=true)](https://github.com/Cthaat/JavaChatSer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cthaat&repo=JavaChat&theme=tokyonight&show_owner=true)](https://github.com/Cthaat/JavaChat)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cthaat&repo=JavaChatSer&theme=tokyonight&show_owner=true" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cthaat&repo=JavaChat&theme=tokyonight&show_owner=true" /></div>
 
 ---
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Edge_walker&&layout=compact&theme=tokyonight" /></div>
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula" align="center" />
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula" align="center" /></div>
 
 ---
 
