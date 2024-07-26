@@ -1,6 +1,6 @@
 <h1 align="center">Reach on me</h1>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cthaat&show_icons=true&theme=tokyonight&line_height=33.5" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cthaat&show_icons=true&theme=radical" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cthaat&show_icons=true&theme=tokyonight&line_height=40" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cthaat&show_icons=true&theme=radical" /></div>
 
 ---
 
