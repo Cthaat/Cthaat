@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://wakatime.com/badge/user/ffb52958-dff8-41f5-9904-6564ad6b33f7.svg" />
 </div>
+
 ---
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cthaat&show_icons=true&theme=tokyonight&line_height=40" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cthaat&show_icons=true&theme=radical" /></div>
