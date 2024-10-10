@@ -121,5 +121,3 @@
 <a href="https://x.com/WEHtl6USjuNyLq4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCH-m_lbASmq5l1zmkA8MDQw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-https://1.xn--xc3ao8r.top/api/v1/client/subscribe?token=d625b08fc1c1c6631a8b24a0c6bc8ae2
-https://1.xn--xc3ao8r.top/api/v1/client/subscribe?token=87a3f54d93abe0ec09510c713f462e4c
