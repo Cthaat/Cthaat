@@ -18,7 +18,7 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula" align="center" /></div>
 
 ---
 
