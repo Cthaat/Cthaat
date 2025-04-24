@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula&cache_bust=1" align="center" /></div>
+[![GitHub Streak](https://github-readme-streak-stats-beryl-seven-33.vercel.app?user=Cthaat&theme=radical)](https://git.io/streak-stats)
 
 ---
 
