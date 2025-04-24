@@ -18,7 +18,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats-beryl-seven-33.vercel.app?user=Cthaat&theme=radical)](https://git.io/streak-stats)
+<div align="center"><img src="https://github-readme-streak-stats-beryl-seven-33.vercel.app?user=Cthaat&theme=radical" alt="GitHub Streak" /></div>
 
 ---
 
