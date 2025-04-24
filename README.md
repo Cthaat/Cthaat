@@ -20,6 +20,8 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cthaat&theme=dracula" align="center" /></div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cthaat)](https://git.io/streak-stats)
+
 ---
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cthaat&theme=react)
