@@ -24,7 +24,6 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cthaat&theme=react)
 
-/*
 ---
 
 <h3 align="left">Languages and Technology:</h3>
@@ -121,4 +120,3 @@
 <a href="https://x.com/WEHtl6USjuNyLq4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCH-m_lbASmq5l1zmkA8MDQw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-*/
