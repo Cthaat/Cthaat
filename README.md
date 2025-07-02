@@ -26,10 +26,6 @@
 
 ---
 
-<div align="center"><img src="https://github-readme-streak-stats-beryl-seven-33.vercel.app?user=Cthaat&theme=radical" alt="GitHub Streak" /></div>
-
----
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cthaat&theme=react)
 
 ---
