@@ -1,8 +1,12 @@
-<h1 align="center">Reach on me</h1>
+<h1 align="center">👋 Reach on me</h1>
 
 <div align="center">
-> 前途光明看不见，道路曲折走不完。
+  
+  > 前途光明看不见，道路曲折走不完。
+
 </div>
+
+---
 
 <div align="center">
   <img src="https://wakatime.com/badge/user/ffb52958-dff8-41f5-9904-6564ad6b33f7.svg" />
